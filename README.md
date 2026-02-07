@@ -38,7 +38,7 @@ pip install torch==2.2.0+cpu torchvision==0.17.0+cpu torchaudio==2.2.0+cpu --ind
 ## Usage
 
 1.  **Clone/Download the repository**.
-2.  **Dataset**: Ensure the `aircraft_damage_dataset_v1` folder is present in the project root with the correct structure (`train`, `valid`, `test`).
+2.  **Dataset**: Ensure the `aircraft_damage_dataset` folder is present in the project root with the correct structure (`train`, `valid`, `test`).
 3.  **Run the Notebook**: Open `Final_Project_Classification_and_Captioning.ipynb` in Jupyter Notebook or VS Code.
 4.  **Execution**: Run the cells sequentially to:
     -   Preprocess the data.
